@@ -9,7 +9,7 @@ The main.py is a question generater basically, some extra code is included but n
 The program itself does not bring any vocabulary data. This should be provided with a dictionary in json format.
 Open the linux terminal, switch to your working dir and then simply run:
 
-	$ python main.py
+	$ python3 main.py
 
 It should work fine.
 # Bugs
