@@ -3,7 +3,7 @@ This temporarily untitled project is aimed to help memorizing vocabularies.
 # System Requirements
 Python3 installation in a linux distro is required to run the program. It is originally written in python3.4.
 # How it works
-The get.py is a gadget grabbing data from web (refer to [Web scraping](https://en.wikipedia.org/wiki/Web_scraping)), more specifically, from youdao (an online dictionary provider in China).
+The get.py is a gadget grabbing words info from web (refer to [Web scraping](https://en.wikipedia.org/wiki/Web_scraping)). More specifically, the meanings are from youdao (an online dictionary provider in China) and phonetics are from OxfordDictionaries.
 The main.py is a question generater basically, some extra code is included but not used, which is reserved for future developing.
 # Using the program
 The program itself does not bring any vocabulary data. This should be provided with a dictionary in json format.
